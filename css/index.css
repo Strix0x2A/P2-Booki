@@ -530,7 +530,6 @@ footer {
 	}
 
 	#second-wrapper {
-		width: 100%;
 		margin: 0 40px;
 	}
 
@@ -613,7 +612,7 @@ footer {
 	#activites {
 		flex-wrap: wrap;
 		margin-bottom: 32px;
-		width: 100%;
+		/* width: 100%; */
 	}
 
 	#second-wrapper>h3 {
@@ -627,7 +626,7 @@ footer {
 	}
 
 	.tall {
-		height: 370px;
+		height: calc(370px - 40px);
 	}
 
 	.small {
