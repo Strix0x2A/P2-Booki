@@ -545,9 +545,6 @@ footer {
 	/* #region HEBERGEMENTS TABLET */
 	#hebergements {
 		width: 100%;
-		/* display: flex; */
-		/* flex-wrap: wrap; */
-		/* justify-content: space-between; */
 	}
 
 	#hebergements>h3 {
@@ -612,7 +609,6 @@ footer {
 	#activites {
 		flex-wrap: wrap;
 		margin-bottom: 32px;
-		/* width: 100%; */
 	}
 
 	#second-wrapper>h3 {
@@ -718,7 +714,7 @@ footer {
 
 	/* #endregion */
 
-	/* #region RESULTS WRAPPER */
+	/* #region RESULTS WRAPPER MOBILE */
 	#first-wrapper {
 		display: flex;
 		flex-direction: column-reverse;
@@ -727,27 +723,6 @@ footer {
 	#second-wrapper {
 		padding: 0px 24px;
 	}
-
-	/* #endregion */
-
-	/* #region DATA MOBILE */
-	/* .data {
-		background-color: white;
-		font-size: 225%;
-	}
-
-	.data-title {
-		font-weight: bold;
-		margin-bottom: 12px;
-	}
-
-	.data-price {
-		font-weight: 200;
-	}
-
-	.stars-wrapper>.star {
-		height: 24px;
-	} */
 
 	/* #endregion */
 
